@@ -1,0 +1,6 @@
+{
+  "name": "CardioTrack CT-200 Regulatory Document Traceability & Staleness Engine",
+  "description": "Production-grade regulatory document hierarchy extractor, non-destructive v1/v2 versioning, 3-tier staleness engine, contradiction detector, and IEC 62304 QA test case generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
